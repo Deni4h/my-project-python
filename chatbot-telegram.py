@@ -20,7 +20,7 @@ async def start(update: Update, context: CallbackContext) -> None:
 
 # Fungsi utama untuk menjalankan bot
 def main():
-    TOKEN = "7922086771:AAFFiPHoIA8lowhDnT8ajP6HL-8JDou__Sc"
+    TOKEN = 
 
     app = Application.builder().token(TOKEN).build()
 
