@@ -4,6 +4,9 @@ daftar_tugas = {}
 
 def tampilan_menu()
 
+nama = "deni"
+umur = 17
+
 def Program_todo()
 
 # ini testing 
